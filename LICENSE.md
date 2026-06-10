@@ -1,4 +1,4 @@
-# 
+# Premium Practical AI Projects for Students scripts. Avec augmentation des données et IA explicable — optimisé pour des performances maximales.
 
 
 
